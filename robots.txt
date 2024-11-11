@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ford-ak.co.id/sitemap.xml

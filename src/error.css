@@ -1,0 +1,23 @@
+.error-page {
+    background-color: #f8f9fa; /* Ganti warna latar sesuai kebutuhan */
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .error-logo {
+    margin-top: 50px; /* Sesuaikan margin sesuai kebutuhan */
+    width: 200px; /* Sesuaikan ukuran sesuai kebutuhan */
+  }
+  
+  .error-heading {
+    color: #dc3545; /* Ganti warna teks sesuai kebutuhan */
+    margin-top: 20px; /* Sesuaikan margin sesuai kebutuhan */
+  }
+  
+  .error-message {
+    color: #6c757d; /* Ganti warna teks sesuai kebutuhan */
+    margin-top: 10px; /* Sesuaikan margin sesuai kebutuhan */
+  }
+  
